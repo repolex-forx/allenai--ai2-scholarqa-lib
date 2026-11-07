@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/allenai/ai2-scholarqa-lib/commit/19e6827ba9e7fe05068624d0851f38cd74ff5efc",
       "git:hexsha": "19e6827ba9e7fe05068624d0851f38cd74ff5efc",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T19:31:31.288287+00:00"
     }
   ]
 }
