@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "ai2-scholarqa-lib",
+  "versions": [
+    {
+      "commit": "19e6827ba9e7fe05068624d0851f38cd74ff5efc",
+      "tag": "",
+      "parsed_at": "2026-11-07T19:31:31.288785+00:00"
+    }
+  ]
+}
